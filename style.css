@@ -1,0 +1,113 @@
+body {
+    color: rgb(0, 0, 0);
+    background: rgb(8, 8, 65);
+    margin: 0px;
+    font-family: "League Spartan", sans-serif;
+}
+
+header {
+    border-bottom: solid;
+    font-size: 28px;
+    color: rgb(255, 243, 243);
+}
+
+
+section{
+    padding-bottom: 70px;
+    padding-top: 80px;
+    display: flex;
+    background: rgba(77, 81, 95, 0.774);
+    justify-content: center;
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+element.style {
+    padding-bottom: 20px;
+    background: rgb(32, 21, 43);
+}
+
+section {
+    background: rgb(113, 95, 133);
+}
+
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+
+img {
+    height: 300px;
+}
+
+h1{
+    font-size: 32px;
+}
+
+p{
+    font-size: 18px;
+
+}
+img{
+    height: 200px;
+}
+
+element.style {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.categoria-videos {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
+.categoria-videos{
+     display: flex;
+     overflow-x: auto;
+     gap: 10px;
+
+}
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.chamada {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+.categoria h2 {
+   color: (245,243,243);
+
+}
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px black;
+}
